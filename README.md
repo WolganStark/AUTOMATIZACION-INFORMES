@@ -1,1 +1,10 @@
-# AUTOMATIZACION-INFORMES
+# 🚀 Automatización de Base de Datos Clínico-Administrativa con VBA (Excel)
+
+## Un Sistema Inteligente de Gestión de Eventos y Generación de Informes
+
+Este proyecto resuelve el desafío de gestionar datos de pacientes con múltiples eventos en una estructura de **"una fila por paciente"** (formato ancho) y transforma esa información en **informes gerenciales y de seguimiento** listos para el análisis. La solución elimina horas de trabajo manual en la preparación de datos y la creación de Tablas Dinámicas. 
+
+---
+
+## ✨ Caracteristicas Principales
+* **Simplificación de Datos (Normalización):** El núcleo del proyecto es la macro `BuildEventDetail`, que automáticamente convierte el formato ancho de la base de datos (multiples columnas de eventos por paciente) a un formato largo (`Eventos_Detallados`). Esto crea una fuente de datos estructurada y optimizada para el análisis.
