@@ -22,3 +22,12 @@ Este proyecto resuelve el desafío de gestionar datos de pacientes con múltiple
 | ❌ Múltiples columnas de eventos (`Fecha_Evento1`, `Fecha_Evento2`, etc.) complican el análisis y la creación de Tablas Dinámicas. | ✅ **Normalización de Datos:** El código VBA convierte automáticamente la tabla en un formato largo (`Eventos_Detallados`), optimizado para el análisis. |
 | 🕑 Horas de trabajo manual para filtrar y crear reportes periódicos (mensuales, trimestrales y anuales). | ⚡ **Informes con un Clic:** El personal usa un panel de botones en la hoja `MENU` para generar reportes actualizados en segundos. |
 | 📉 Reportes inconsistentes debido a errores humanos en el copiado y pegado. | 📈 **Consistencia Total:** Los informes son Tablas Dinámicas estándar, preconfiguradas con filtros de tiempo precisos (Mes Anterior, Trimestre Anterior, Año Anterior). |
+# Estructura del Repositorio
+```
+AUTOMATIZACION-INFORMES/
+|---.gitignore
+|---README.md
+|---BDD_Transplante.xlsm
+|---vba_code/
+|---ModuloPrincipal.bas
+```
