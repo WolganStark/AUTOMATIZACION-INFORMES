@@ -29,5 +29,5 @@ AUTOMATIZACION-INFORMES/
 |---README.md
 |---BDD_Transplante.xlsm
 |---vba_code/
-|---ModuloPrincipal.bas
+|------Modulo.bas
 ```
